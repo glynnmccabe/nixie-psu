@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+D:\Development\Hardware\NixiePSU\Output 6-06-2020 3-34-25 PM\Pick Place\Pick Place for NixiePSU.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/06/20
+Time:       15:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Q1","IRFH5025PBF","TopLayer","QFN127P600X500X80_HS-9M","22.5000","9.2500","270","IRFH5025TRPBF -  MOSFET Transistor, N Channel, 25 A, 250 V, 0.084 ohm, 10 V, 5 V"
+"0V","WIRE_CON-","TopLayer","WIRE_PAD-","33.0000","17.2024","0","Wire pad connection"
+"180V","WIRE_CON+","TopLayer","WIRE_PAD+","28.0000","17.2024","0","Wire pad connection"
+"J2","WIRE_CON-","TopLayer","WIRE_PAD-","3.0000","16.2024","0","Wire pad connection"
+"J1","WIRE_CON+","TopLayer","WIRE_PAD+","3.0000","11.7024","0","Wire pad connection"
+"C9","0.1µF","TopLayer","CAP_0603_1608","14.8000","17.2500","360","CAP CER 0.1UF 25V X5R 0603"
+"C5","1µF","TopLayer","CAP_2220_5650_2.0MM","30.5000","11.2024","180","CAP CER 1UF 250V X7R 2220"
+"C4","1µF","TopLayer","CAP_2220_5650_2.0MM","30.5000","4.2024","180","CAP CER 1UF 250V X7R 2220"
+"U1","TPS40210DRCT","TopLayer","DRC0010A_V","14.0000","14.5024","360","Wide Input Range Current Mode Boost Controller, 95 % Duty Cycle, 4.5 to 52 V, -40 to 125 degC, 10-pin SON (DRC), Green (RoHS & no Sb/Br)"
+"R8","39 mOhms","TopLayer","STACKPOLE_CSR1206","23.0000","14.7500","360","RES 0.039 OHM 1% 1W 1206"
+"R7","1.27 kOhms","TopLayer","RES_0603_1608","21.5000","17.2500","360","RES SMD 1.27K OHM 1% 1/10W 0603"
+"R6","0 Ohms","TopLayer","RES_0603_1608","6.5000","13.0024","90","RES 0 OHM JUMPER 0.01W 0603"
+"R5","1 kOhms","TopLayer","RES_0603_1608","18.0000","14.0500","360","RES SMD 1K OHM 1% 1/10W 0603"
+"R4","10 kOhms","TopLayer","RES_0603_1608","8.8000","12.4500","360","RES SMD 10K OHM 1% 1/10W 0603"
+"R3","330 kOhms","TopLayer","RES_0603_1608","24.3000","17.2500","360","RES SMD 330K OHM 1% 1/10W 0603"
+"R2","3.3 Ohms","TopLayer","RES_0603_1608","18.0000","15.6500","360","RES SMD 3.3 OHM 1% 1/10W 0603"
+"R1","620 kOhms","TopLayer","RES_0603_1608","11.8000","17.2500","360","RES SMD 620K OHM 1% 1/10W 0603"
+"L1","47uH","TopLayer","SRP1040VA","12.0000","6.2024","360","FIXED IND 47UH 4A 167MOHM SMD"
+"D1","ES2G-E3/52T","TopLayer","DO214AA_SMB","22.5000","3.2024","360","DIODE GEN PURP 400V 2A DO214AA"
+"C11","470pF","TopLayer","CAP_0603_1608","18.0000","12.4500","360","CAP CER 470PF 50V C0G 0603"
+"C10","1µF","TopLayer","CAP_0603_1608","18.0000","17.2500","180","CAP CER 1UF 25V X7R 0603"
+"C8","470pF","TopLayer","CAP_0603_1608","8.8000","17.2500","360","CAP CER 470PF 50V C0G 0603"
+"C7","2.2µF","TopLayer","CAP_0603_1608","8.8000","15.6500","360","CAP CER 2.2UF 50V X5R 0603"
+"C6","0.15µF","TopLayer","CAP_0603_1608","8.8000","14.0500","180","CAP CER 0.15UF 16V X7R 0603"
+"C3","100pF","TopLayer","CAP_0603_1608","11.3000","13.0500","90","CAP CER 100PF 16V NP0 0603"
+"C2","22µF","TopLayer","CAP_1210_3225_-_2.8MM","3.0000","3.2024","360","CAP CER 22UF 25V X6S 1210"
+"C1","22µF","TopLayer","CAP_1210_3225_-_2.8MM","3.0000","7.2024","360","CAP CER 22UF 25V X6S 1210"
